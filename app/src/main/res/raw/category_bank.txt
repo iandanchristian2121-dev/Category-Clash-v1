@@ -1,0 +1,500 @@
+EASY	Mga prutas
+EASY	Mga gulay
+EASY	Mga hayop
+EASY	Mga hayop na lumilipad
+EASY	Mga hayop na nakatira sa tubig
+EASY	Mga alagang hayop
+EASY	Mga pagkaing may sabaw
+EASY	Mga pagkaing makikita sa handaan
+EASY	Mga pagkaing almusal
+EASY	Mga pagkaing kalye
+EASY	Mga pagkaing matamis
+EASY	Mga pagkaing maanghang
+EASY	Mga inumin
+EASY	Mga brand ng softdrinks
+EASY	Mga flavor ng ice cream
+EASY	Mga gamit sa kusina
+EASY	Mga gamit sa banyo
+EASY	Mga gamit sa classroom
+EASY	Mga gamit sa opisina
+EASY	Mga gamit sa paglilinis
+EASY	Mga gamit na de-kuryente
+EASY	Mga gamit sa bag
+EASY	Mga gamit sa kwarto
+EASY	Mga makikita sa sala
+EASY	Mga makikita sa palengke
+EASY	Mga makikita sa mall
+EASY	Mga makikita sa ospital
+EASY	Mga makikita sa airport
+EASY	Mga makikita sa beach
+EASY	Mga makikita sa parke
+EASY	Mga parte ng katawan
+EASY	Mga kulay
+EASY	Mga hugis
+EASY	Mga trabaho
+EASY	Mga trabahong may uniform
+EASY	Mga sasakyan
+EASY	Mga pampublikong sasakyan
+EASY	Mga laruan
+EASY	Mga laro ng bata
+EASY	Mga sports
+EASY	Mga school subject
+EASY	Mga araw ng selebrasyon
+EASY	Mga lugar sa Pilipinas
+EASY	Mga bansa
+EASY	Mga lungsod sa Metro Manila
+EASY	Mga pangalan ng babae
+EASY	Mga pangalan ng lalaki
+EASY	Mga sikat na superhero
+EASY	Mga cartoon character
+EASY	Mga pelikulang Pilipino
+EASY	Mga palabas sa telebisyon
+EASY	Mga social media app
+EASY	Mga mobile app
+EASY	Mga brand ng cellphone
+EASY	Mga gamit sa computer
+EASY	Mga instrumentong pangmusika
+EASY	Mga uri ng musika
+EASY	Mga bagay na kulay pula
+EASY	Mga bagay na kulay asul
+EASY	Mga bagay na bilog
+EASY	Mga bagay na malambot
+EASY	Mga bagay na mabango
+EASY	Mga bagay na malamig
+EASY	Mga bagay na mainit
+EASY	Mga bagay na maingay
+EASY	Mga bagay na nababasag
+EASY	Mga bagay na may gulong
+EASY	Mga bagay na may takip
+EASY	Mga bagay na isinusuot
+EASY	Mga kasuotan kapag umuulan
+EASY	Mga regalo sa kaarawan
+EASY	Mga ginagawa bago matulog
+EASY	Mga ginagawa pagkagising
+EASY	Mga dahilan ng pagiging late
+EASY	Mga puwedeng gawin kapag brownout
+EASY	Mga makikita sa loob ng refrigerator
+EASY	Mga mabibili sa sari-sari store
+EASY	Mga dadalhin sa outing
+EASY	Mga gamit sa pag-aaral
+EASY	Mga tunog ng hayop
+EASY	Mga karaniwang makikita sa bahay
+EASY	Mga karaniwang makikita sa kusina
+EASY	Mga karaniwang makikita sa banyo
+EASY	Mga karaniwang makikita sa kwarto
+EASY	Mga karaniwang makikita sa sala
+EASY	Mga karaniwang makikita sa garahe
+EASY	Mga karaniwang makikita sa hardin
+EASY	Mga karaniwang makikita sa paaralan
+EASY	Mga karaniwang makikita sa classroom
+EASY	Mga karaniwang makikita sa opisina
+EASY	Mga karaniwang makikita sa palengke
+EASY	Mga karaniwang makikita sa supermarket
+EASY	Mga karaniwang makikita sa mall
+EASY	Mga karaniwang makikita sa restaurant
+EASY	Mga karaniwang makikita sa fast-food restaurant
+EASY	Mga karaniwang makikita sa ospital
+EASY	Mga karaniwang makikita sa botika
+EASY	Mga karaniwang makikita sa airport
+EASY	Mga karaniwang makikita sa bus terminal
+EASY	Mga karaniwang makikita sa jeep
+EASY	Mga karaniwang makikita sa beach
+EASY	Mga karaniwang makikita sa resort
+EASY	Mga karaniwang makikita sa parke
+EASY	Mga karaniwang makikita sa simbahan
+EASY	Mga karaniwang makikita sa birthday party
+EASY	Mga karaniwang makikita sa kasal
+EASY	Mga karaniwang makikita sa gym
+EASY	Mga karaniwang makikita sa barbershop
+EASY	Mga karaniwang makikita sa salon
+EASY	Mga karaniwang makikita sa bakery
+EASY	Mga karaniwang makikita sa coffee shop
+EASY	Mga karaniwang makikita sa hardware store
+EASY	Mga karaniwang makikita sa gas station
+EASY	Mga karaniwang makikita sa computer shop
+EASY	Mga karaniwang makikita sa library
+EASY	Mga karaniwang makikita sa museum
+EASY	Mga karaniwang makikita sa zoo
+EASY	Mga karaniwang makikita sa farm
+EASY	Mga karaniwang makikita sa basketball court
+EASY	Mga karaniwang makikita sa playground
+EASY	Mga ginagawa kapag umuulan
+EASY	Mga ginagawa kapag mainit ang panahon
+EASY	Mga ginagawa kapag brownout
+EASY	Mga ginagawa kapag walang internet
+EASY	Mga ginagawa kapag gutom
+EASY	Mga ginagawa kapag nauuhaw
+EASY	Mga ginagawa kapag bored
+EASY	Mga ginagawa kapag late na
+EASY	Mga ginagawa kapag may bisita
+EASY	Mga ginagawa kapag may birthday
+EASY	Mga ginagawa kapag may outing
+EASY	Mga ginagawa kapag nag-aaral
+EASY	Mga ginagawa kapag nagtatrabaho
+EASY	Mga ginagawa kapag nagluluto
+EASY	Mga ginagawa kapag naglilinis
+EASY	Mga ginagawa kapag namimili
+EASY	Mga ginagawa kapag nagbabakasyon
+EASY	Mga ginagawa kapag naghihintay
+EASY	Mga ginagawa kapag masaya
+EASY	Mga ginagawa kapag malungkot
+EASY	Mga ginagawa kapag pagod
+EASY	Mga ginagawa kapag may sakit
+EASY	Mga ginagawa kapag traffic
+EASY	Mga pagkaing Pinoy
+EASY	Mga pagkaing pritong pagkain
+EASY	Mga pagkaing may karne
+EASY	Mga pagkaing may gulay
+EASY	Mga pagkaing may keso
+EASY	Mga pagkaing may tsokolate
+EASY	Mga pagkaing may niyog
+EASY	Mga pagkaing iniihaw
+EASY	Mga pagkaing nilalaga
+EASY	Mga pagkaing pang-meryenda
+EASY	Mga pagkaing baon
+EASY	Mga pagkaing nasa lata
+EASY	Mga pagkaing nabibili sa bakery
+EASY	Mga inuming malamig
+EASY	Mga inuming mainit
+EASY	Mga prutas na matamis
+EASY	Mga prutas na maasim
+EASY	Mga berdeng gulay
+EASY	Mga lamang-dagat
+EASY	Mga uri ng tinapay
+EASY	Mga uri ng kendi
+EASY	Mga uri ng biscuit
+EASY	Mga uri ng noodles
+EASY	Mga uri ng sawsawan
+EASY	Mga sangkap na pampalasa
+EASY	Mga kasangkapan sa bahay
+EASY	Mga gamit na gawa sa plastik
+EASY	Mga gamit na gawa sa metal
+EASY	Mga gamit na gawa sa papel
+EASY	Mga gamit na gumagamit ng baterya
+EASY	Mga bagay na may ilaw
+EASY	Mga bagay na may pindutan
+EASY	Mga bagay na may hawakan
+EASY	Mga bagay na may numero
+EASY	Mga bagay na may letra
+EASY	Mga bagay na mahaba
+EASY	Mga bagay na maliit
+EASY	Mga bagay na mabigat
+EASY	Mga bagay na magaan
+EASY	Mga bagay na makulay
+EASY	Mga bagay na transparent
+EASY	Mga bagay na parisukat
+EASY	Mga bagay na tatsulok
+EASY	Mga bagay na ginagamit sa labas
+EASY	Mga bagay na ginagamit sa loob ng bahay
+EASY	Mga bagay na ginagamit araw-araw
+EASY	Mga bagay na puwedeng tiklupin
+EASY	Mga bagay na puwedeng buksan
+EASY	Mga bagay na puwedeng isabit
+EASY	Mga bagay na puwedeng hugasan
+EASY	Mga bagay na puwedeng sulatan
+EASY	Mga bagay na puwedeng upuan
+EASY	Mga hayop sa kagubatan
+EASY	Mga hayop sa bukid
+EASY	Mga hayop sa zoo
+EASY	Mga hayop na maliit
+EASY	Mga hayop na mabagal
+EASY	Mga hayop na mabilis
+EASY	Mga ibon
+EASY	Mga insekto
+EASY	Mga uri ng isda
+EASY	Mga halaman
+EASY	Mga bulaklak
+EASY	Mga puno
+EASY	Mga larong pambata
+EASY	Mga board game
+EASY	Mga video game
+EASY	Mga bagay na ginagamit sa sports
+EASY	Mga kanta para sa birthday
+EASY	Mga sayaw
+EASY	Mga hobby
+EASY	Mga paraan ng komunikasyon
+EASY	Mga uri ng tindahan
+EASY	Mga uri ng gusali
+EASY	Mga lugar na pasyalan
+EASY	Mga probinsya sa Pilipinas
+EASY	Mga anyong lupa
+EASY	Mga anyong tubig
+EASY	Mga panahon o weather condition
+EASY	Mga laman ng lunch box
+EASY	Mga laman ng school bag
+EASY	Mga laman ng grocery cart
+EASY	Mga laman ng aparador
+EASY	Mga laman ng medicine cabinet
+EASY	Mga gamit sa picnic
+EASY	Mga gamit sa swimming
+EASY	Mga gamit sa camping
+EASY	Mga gamit sa pagbiyahe
+EASY	Mga gamit sa pag-eehersisyo
+EASY	Mga gamit sa pag-aalaga ng halaman
+EASY	Mga gamit sa pag-aalaga ng sanggol
+EASY	Mga gamit sa pag-aayos ng buhok
+EASY	Mga gamit sa pagligo
+EASY	Mga gamit sa paghuhugas ng pinggan
+EASY	Mga gamit sa pagkukumpuni
+EASY	Mga bagay na nagbibigay ng liwanag
+EASY	Mga bagay na nagbibigay ng tunog
+EASY	Mga bagay na may amoy
+EASY	Mga bagay na puwedeng iguhit
+EASY	Mga bagay na puwedeng kolektahin
+EASY	Mga bagay na makikita sa kalye
+EASY	Mga bagay na makikita sa langit
+EASY	Mga bagay na makikita sa dagat
+EASY	Mga bagay na makikita sa bundok
+EASY	Mga bagay na ginagamit sa party
+EASY	Mga bagay na ginagamit sa Pasko
+EASY	Mga bagay na ginagamit sa kaarawan
+HARD	Mga bansang nagsisimula sa letrang S
+HARD	Mga prutas na may buto sa gitna
+HARD	Mga pagkaing nagsisimula sa letrang P
+HARD	Mga hayop na may apat na paa
+HARD	Mga hayop na nangingitlog
+HARD	Mga bagay na kasya sa bulsa
+HARD	Mga bagay na hindi dapat mabasa
+HARD	Mga bagay na ginagamit nang pares
+HARD	Mga bagay na may zipper
+HARD	Mga bagay na gawa sa salamin
+HARD	Mga bagay na gawa sa kahoy
+HARD	Mga bagay na ginagamit sa dilim
+HARD	Mga bagay na makikita sa kisame
+HARD	Mga bagay na makikita sa ilalim ng kama
+HARD	Mga bagay na ginagamit isang beses lang
+HARD	Mga salitang nagsisimula sa K
+HARD	Mga salitang nagtatapos sa AN
+HARD	Mga salitang may tatlong pantig
+HARD	Mga salitang walang letrang A
+HARD	Mga bagay na nagsisimula sa B
+HARD	Mga pagkain na kulay puti
+HARD	Mga pagkain na puwedeng kainin nang hilaw
+HARD	Mga pagkain na karaniwang nilalagyan ng kanin
+HARD	Mga pagkaing niluluto gamit ang itlog
+HARD	Mga pagkaing binalot sa dahon
+HARD	Mga sangkap sa sinigang
+HARD	Mga sangkap sa fruit salad
+HARD	Mga ulam na may gata
+HARD	Mga dessert na malamig
+HARD	Mga inuming walang caffeine
+HARD	Mga propesyon na nagtatrabaho sa gabi
+HARD	Mga trabahong gumagamit ng computer
+HARD	Mga trabahong kailangang magmaneho
+HARD	Mga bagay na dinadala ng estudyante pero hindi libro
+HARD	Mga dahilan para pumunta sa ospital
+HARD	Mga dahilan para gumamit ng payong
+HARD	Mga puwedeng dahilan ng pagkasira ng cellphone
+HARD	Mga puwedeng makita sa resibo
+HARD	Mga puwedeng makita sa ID
+HARD	Mga makikita sa toolbox
+HARD	Mga makikita sa first-aid kit
+HARD	Mga makikita sa construction site
+HARD	Mga makikita sa gas station
+HARD	Mga makikita sa simbahan
+HARD	Mga makikita sa wedding reception
+HARD	Mga makikita sa birthday party ng bata
+HARD	Mga makikita sa loob ng jeep
+HARD	Mga makikita sa ibabaw ng desk
+HARD	Mga makikita sa isang hotel room
+HARD	Mga makikita sa hardware store
+HARD	Mga ginagawa kapag naghihintay
+HARD	Mga ginagawa nang nakapikit
+HARD	Mga ginagawa gamit ang dalawang kamay
+HARD	Mga ginagawa kapag walang internet
+HARD	Mga ginagawa tuwing weekend
+HARD	Mga bagay na ayaw mong maiwan sa bahay
+HARD	Mga bagay na ayaw mong mahulog
+HARD	Mga bagay na mahirap linisin
+HARD	Mga bagay na hindi puwedeng kainin
+HARD	Mga bagay na may expiration date
+HARD	Mga bagay na puwedeng i-charge
+HARD	Mga bagay na nangangailangan ng password
+HARD	Mga bagay na maaaring i-recycle
+HARD	Mga bagay na ginagamit tuwing tag-init
+HARD	Mga bagay na ginagamit tuwing tag-ulan
+HARD	Mga bagay na kailangan sa camping
+HARD	Mga bagay na dadalhin kapag lilipat ng bahay
+HARD	Mga bagay na makikita sa emergency exit
+HARD	Mga lugar na kailangang tahimik
+HARD	Mga lugar na kailangan ng ticket
+HARD	Mga lugar na may pila
+HARD	Mga lugar na bukas nang 24 oras
+HARD	Mga hayop na walang paa
+HARD	Mga hayop na may pakpak pero hindi ibon
+HARD	Mga hayop na makikita sa bukid
+HARD	Mga uri ng isda
+HARD	Mga uri ng puno
+HARD	Mga halaman na may bulaklak
+HARD	Mga sports na gumagamit ng bola
+HARD	Mga laro na gumagamit ng baraha
+HARD	Mga salitang Tagalog na nagsisimula sa letrang A
+HARD	Mga salitang Tagalog na nagsisimula sa letrang B
+HARD	Mga salitang Tagalog na nagsisimula sa letrang D
+HARD	Mga salitang Tagalog na nagsisimula sa letrang G
+HARD	Mga salitang Tagalog na nagsisimula sa letrang H
+HARD	Mga salitang Tagalog na nagsisimula sa letrang I
+HARD	Mga salitang Tagalog na nagsisimula sa letrang K
+HARD	Mga salitang Tagalog na nagsisimula sa letrang L
+HARD	Mga salitang Tagalog na nagsisimula sa letrang M
+HARD	Mga salitang Tagalog na nagsisimula sa letrang P
+HARD	Mga salitang Tagalog na nagsisimula sa letrang S
+HARD	Mga salitang Tagalog na nagsisimula sa letrang T
+HARD	Mga bagay na nagsisimula sa letrang A
+HARD	Mga bagay na nagsisimula sa letrang B
+HARD	Mga bagay na nagsisimula sa letrang D
+HARD	Mga bagay na nagsisimula sa letrang G
+HARD	Mga bagay na nagsisimula sa letrang H
+HARD	Mga bagay na nagsisimula sa letrang I
+HARD	Mga bagay na nagsisimula sa letrang K
+HARD	Mga bagay na nagsisimula sa letrang L
+HARD	Mga bagay na nagsisimula sa letrang M
+HARD	Mga bagay na nagsisimula sa letrang P
+HARD	Mga bagay na nagsisimula sa letrang S
+HARD	Mga bagay na nagsisimula sa letrang T
+HARD	Mga pagkain na nagsisimula sa letrang A
+HARD	Mga pagkain na nagsisimula sa letrang B
+HARD	Mga pagkain na nagsisimula sa letrang K
+HARD	Mga pagkain na nagsisimula sa letrang L
+HARD	Mga pagkain na nagsisimula sa letrang M
+HARD	Mga pagkain na nagsisimula sa letrang P
+HARD	Mga pagkain na nagsisimula sa letrang S
+HARD	Mga pagkain na nagsisimula sa letrang T
+HARD	Mga bagay na maaaring makita sa loob ng freezer
+HARD	Mga bagay na maaaring makita sa medicine cabinet
+HARD	Mga bagay na maaaring makita sa school clinic
+HARD	Mga bagay na maaaring makita sa science laboratory
+HARD	Mga bagay na maaaring makita sa principal's office
+HARD	Mga bagay na maaaring makita sa conference room
+HARD	Mga bagay na maaaring makita sa stock room
+HARD	Mga bagay na maaaring makita sa warehouse
+HARD	Mga bagay na maaaring makita sa factory
+HARD	Mga bagay na maaaring makita sa printing shop
+HARD	Mga bagay na maaaring makita sa packaging area
+HARD	Mga bagay na maaaring makita sa loading bay
+HARD	Mga bagay na maaaring makita sa police station
+HARD	Mga bagay na maaaring makita sa fire station
+HARD	Mga bagay na maaaring makita sa courtroom
+HARD	Mga bagay na maaaring makita sa bank
+HARD	Mga bagay na maaaring makita sa ATM area
+HARD	Mga bagay na maaaring makita sa hotel lobby
+HARD	Mga bagay na maaaring makita sa hotel bathroom
+HARD	Mga bagay na maaaring makita sa restaurant kitchen
+HARD	Mga bagay na maaaring makita sa buffet table
+HARD	Mga bagay na maaaring makita sa wet market
+HARD	Mga bagay na maaaring makita sa meat shop
+HARD	Mga bagay na maaaring makita sa pet shop
+HARD	Mga bagay na maaaring makita sa flower shop
+HARD	Mga bagay na maaaring makita sa bookstore
+HARD	Mga bagay na maaaring makita sa toy store
+HARD	Mga bagay na maaaring makita sa shoe store
+HARD	Mga bagay na maaaring makita sa department store
+HARD	Mga bagay na maaaring makita sa convenience store
+HARD	Mga bagay na maaaring makita sa laundry shop
+HARD	Mga bagay na maaaring makita sa car wash
+HARD	Mga bagay na maaaring makita sa motorcycle repair shop
+HARD	Mga bagay na maaaring makita sa construction site
+HARD	Mga bagay na maaaring makita sa rooftop
+HARD	Mga bagay na maaaring makita sa basement
+HARD	Mga bagay na maaaring makita sa elevator
+HARD	Mga bagay na maaaring makita sa parking lot
+HARD	Mga bagay na maaaring makita sa swimming pool
+HARD	Mga bagay na maaaring makita sa camping site
+HARD	Mga bagay na maaaring makita sa hiking trail
+HARD	Mga bagay na maaaring makita sa seaport
+HARD	Mga bagay na maaaring makita sa airplane
+HARD	Mga bagay na maaaring makita sa bus
+HARD	Mga bagay na maaaring makita sa train station
+HARD	Mga bagay na kasya sa wallet
+HARD	Mga bagay na kasya sa shoebox
+HARD	Mga bagay na mas maliit sa cellphone
+HARD	Mga bagay na mas malaki sa refrigerator
+HARD	Mga bagay na ginagamit lamang sa umaga
+HARD	Mga bagay na karaniwang ginagamit sa gabi
+HARD	Mga bagay na ginagamit kapag may emergency
+HARD	Mga bagay na kailangang i-lock
+HARD	Mga bagay na kailangang lagyan ng label
+HARD	Mga bagay na may serial number
+HARD	Mga bagay na may barcode
+HARD	Mga bagay na may remote control
+HARD	Mga bagay na may screen
+HARD	Mga bagay na may antenna
+HARD	Mga bagay na umiikot
+HARD	Mga bagay na lumulutang
+HARD	Mga bagay na lumulubog
+HARD	Mga bagay na natutunaw
+HARD	Mga bagay na madaling masunog
+HARD	Mga bagay na hindi dapat ilagay sa microwave
+HARD	Mga bagay na hindi pinapayagan sa eroplano
+HARD	Mga bagay na kailangang palamigin
+HARD	Mga bagay na kailangang pakuluan
+HARD	Mga bagay na sinusukat sa kilo
+HARD	Mga bagay na sinusukat sa litro
+HARD	Mga bagay na sinusukat sa metro
+HARD	Mga bagay na binibili kada piraso
+HARD	Mga bagay na binibili nang pares
+HARD	Mga bagay na inuupahan
+HARD	Mga bagay na maaaring mawala sa biyahe
+HARD	Mga bagay na maaaring makalimutan sa hotel
+HARD	Mga bagay na kailangang dalhin sa interview
+HARD	Mga bagay na kailangang dalhin sa exam
+HARD	Mga bagay na kailangan kapag may bagyo
+HARD	Mga bagay na kailangan sa first day of school
+HARD	Mga bagay na kailangang palitan kapag luma na
+HARD	Mga bagay na kailangang linisin linggo-linggo
+HARD	Mga bagay na bawal hawakan nang basa ang kamay
+HARD	Mga bagay na gumagawa ng malakas na tunog
+HARD	Mga bagay na walang kuryente pero gumagalaw
+HARD	Mga bagay na may apat na sulok
+HARD	Mga bagay na may higit sa apat na gulong
+HARD	Mga bagay na may dalawang gamit
+HARD	Mga bagay na maaaring gawing regalo sa bata
+HARD	Mga bagay na maaaring gawing regalo sa magulang
+HARD	Mga pagkaing walang karne
+HARD	Mga pagkaing walang kailangang lutuin
+HARD	Mga pagkaing kinakain gamit ang kamay
+HARD	Mga pagkaing kinakain gamit ang kutsara
+HARD	Mga pagkaing puwedeng i-freeze
+HARD	Mga pagkaing mabilis mapanis
+HARD	Mga pagkaing karaniwang may kamatis
+HARD	Mga pagkaing karaniwang may sibuyas
+HARD	Mga pagkaing may palaman
+HARD	Mga pagkaing may balat na inaalis
+HARD	Mga pagkaing nasa stick
+HARD	Mga pagkaing bilog
+HARD	Mga inuming karaniwang may yelo
+HARD	Mga inuming gawa sa prutas
+HARD	Mga sangkap na nasa pantry
+HARD	Mga sangkap na nagbibigay ng alat
+HARD	Mga sangkap na nagbibigay ng tamis
+HARD	Mga sangkap na nagbibigay ng anghang
+HARD	Mga hayop na aktibo sa gabi
+HARD	Mga hayop na kayang lumangoy
+HARD	Mga hayop na may matigas na shell
+HARD	Mga hayop na may sungay
+HARD	Mga hayop na may mahabang buntot
+HARD	Mga hayop na mas maliit sa pusa
+HARD	Mga trabahong kailangang magsuot ng helmet
+HARD	Mga trabahong humaharap sa customer
+HARD	Mga trabahong gumagamit ng makina
+HARD	Mga trabahong nangangailangan ng lisensya
+HARD	Mga trabahong ginagawa sa labas
+HARD	Mga dahilan para tumawag sa hotline
+HARD	Mga dahilan para kanselahin ang biyahe
+HARD	Mga dahilan para magdala ng ekstrang damit
+HARD	Mga dahilan para humingi ng resibo
+HARD	Mga dahilan para magpalit ng password
+HARD	Mga ginagawa nang hindi gumagamit ng kamay
+HARD	Mga ginagawa nang nakatayo
+HARD	Mga ginagawa habang nakasakay
+HARD	Mga ginagawa bago bumiyahe
+HARD	Mga ginagawa pagkatapos kumain
+HARD	Mga ginagawa kapag may sunog
+HARD	Mga ginagawa kapag nawawala
+HARD	Mga lugar na bawal maingay
+HARD	Mga lugar na may security guard
+HARD	Mga lugar na kailangang magpakita ng ID
+HARD	Mga lugar na puwedeng magbayad gamit ang card
+HARD	Mga lugar na may waiting area
+HARD	Mga larong nangangailangan ng teamwork
+HARD	Mga sports na hindi gumagamit ng bola
