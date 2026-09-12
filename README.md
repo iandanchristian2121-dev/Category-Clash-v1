@@ -17,6 +17,8 @@ Offline two-player Android party game in landscape mode.
 - Manual challenge for invalid or repeated answers
 - Correct challenge handoff: a valid challenged answer keeps the next player's turn
 - Redesigned dark challenge dialog with clear gold-accented controls
+- Unified dark navy and gold styling across every confirmation and game popup
+- Custom Category Clash launcher icon with opposing answer bubbles
 - Undo point, pause, rematch, and sound controls
 
 ## Build the APK with GitHub
