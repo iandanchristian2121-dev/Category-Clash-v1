@@ -13,6 +13,7 @@ Offline two-player Android party game in landscape mode.
 - Switchable left/right positions before the timer starts
 - Immersive fullscreen with hidden Android navigation controls
 - Single-screen landscape layouts with no scrolling
+- Clear, padded settings labels that stay fully visible above controls
 - Two large player buttons with a selectable 5- or 10-second center timer
 - Tick, pass-turn button, and time-up buzzer sounds
 - Manual challenge for invalid or repeated answers
